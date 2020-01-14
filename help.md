@@ -1,0 +1,1 @@
+GET /pptcontrol?action=0&file=tiandiren.ppt&fileDir=test
